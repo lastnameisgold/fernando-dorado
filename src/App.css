@@ -1,0 +1,26 @@
+.App {
+  /* text-align: center; */
+}
+
+.navbar-container {
+  background-color: pink;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+}
+
+.nav-cta-container {
+  background-color: papayawhip;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  grid-gap: 2rem;
+}
+
+.nav-cta-container ul {
+  list-style: none;
+  display: flex;
+  grid-gap: 2rem;
+  padding: 0;
+}
